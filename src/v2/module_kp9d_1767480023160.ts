@@ -1,0 +1,1 @@
+const util_kp9d = (d: any) => d;
